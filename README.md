@@ -1,6 +1,6 @@
 # Craters-Exploration 1: Autonomous Crater Detection Using YOLOv8
 
-Hey everyone! This is a project I built to solve a specific problem: how can we automatically, quickly, and accurately identify and map impact craters from satellite images? While I trained this version using Martian surface imagery, the underlying logic can be adapted to pretty much any planetary or lunar surface. 
+Hey everyone! This is a project I built to solve a specific problem for space exploration companies: how can we automatically, quickly, and accurately identify and map impact craters from satellite images? While I trained this version using Martian surface imagery, the underlying logic can be adapted to pretty much any planetary or lunar surface. 
 
 ---
 
